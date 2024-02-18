@@ -1,4 +1,4 @@
-# SCADA System Cybersecurity Project
+# SCADA System Cybersecurity analysis using Deep Belief Networks Algorithm Project
 
 I have successfully signed and executed a comprehensive SCADA (Supervisory Control and Data Acquisition) system cybersecurity project. This initiative involved the implementation of advanced strategies i.e, Deep Belief Networks (DBNs) to safeguard critical industrial processes from various cyber threats. 
 
@@ -29,7 +29,10 @@ The SCADA system cybersecurity project aimed to secure critical industrial proce
 
 This initiative has significantly enhanced the resilience of the SCADA system, providing a secure and stable operational environment.
 
-![Project Image](url_to_your_image)
+![Project Image](https://github.com/tanzeem131/Deep-belief-network-ml-project/blob/main/img/Screenshot%202024-02-18%20204844.png)
+![Project Image](https://github.com/tanzeem131/Deep-belief-network-ml-project/blob/main/img/Screenshot%202024-02-18%20204922.png)
+![Project Image](https://github.com/tanzeem131/Deep-belief-network-ml-project/blob/main/img/Screenshot%202024-02-18%20204737.png)
+![Project Image](https://github.com/tanzeem131/Deep-belief-network-ml-project/blob/main/img/Screenshot%202024-02-18%20204954.png)
 
 
 *Note: Feel free to customize and expand upon this template based on your specific project details and requirements.*
